@@ -9,7 +9,7 @@ Setup Instructions
 1. Download the JavaFX SDK from (https://gluonhq.com/products/javafx/)
 2. Extract the SDK to a directory like (C:\javafx-sdk-23.0.1) 
 2.	Ensure that the config.txt is properly formatted with the following content.
-API_KEY=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI0ZjQwOTgxMC0yZTRjLTAxM2MtMWFjMi0wNjAzNzFjMDFlZTQiLCJpc3MiOiJnYW1lbG9ja2VyIiwiaWF0IjoxNjkzOTQwMzg4LCJwdWIiOiJibHVlaG9sZSIsInRpdGxlIjoicHViZyIsImFwcCI6ImtpbGwtcmVjb3JkLXYxIn0.UmtcORtJXnGlxT5CBIcz24BtM338rQzlYU3oWJ81Nc8
+API_KEY=YOUR_AUTH_KEY
 BASE_URL=https://api.pubg.com/shards/steam/players/
 
 Compilation Instructions via the command line
